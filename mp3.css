@@ -1,5 +1,5 @@
 @font-face{
-    font-family: "KFC";
+    font-family: "fink";
     src: url("https://julian20yt.github.io/ham/fink.ttf");
 }
 
@@ -58,7 +58,7 @@
 }
 
 * {
-    font-family: "Arial";
+    font-family: "fink";
 }
 
 #log_title, .msWindow_title {
